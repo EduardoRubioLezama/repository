@@ -12,6 +12,8 @@ def numeracion(numero):
     print(lista3)
     print(lista)
     print(lista2)
+    print("Modifique tu codigo")
+    print("Prueba")
 
 
 def impares(cad):
